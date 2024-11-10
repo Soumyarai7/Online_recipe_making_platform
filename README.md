@@ -13,8 +13,8 @@ This is an recipe making platform built using Java Servlets and JSP. The project
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/onlinevotingsystem.git
-    cd onlinevotingsystem
+    git clone https://github.com/Soumyarai7/Online_recipe_making_platform.git
+    cd filename
     ```
 
 2. **Configure the database:**
@@ -29,14 +29,14 @@ This is an recipe making platform built using Java Servlets and JSP. The project
 
 4. **Deploy the WAR file:**
 
-    Deploy the generated `onlinerecipemakingplatform.war` file located in the `target` directory to your servlet container (e.g., Apache Tomcat).
+    Deploy the generated `filename.war` file located in the `target` directory to your servlet container (e.g., Apache Tomcat).
 
 ### Running the Application
 
 1. **Start your servlet container (e.g., Apache Tomcat).**
 2. **Access the application:**
 
-    Open your web browser and navigate to `http://localhost:8080/onlinevotingsystem`.
+    Open your web browser and navigate to `http://localhost:8080/filename`.
 
 ## Project Components
 
