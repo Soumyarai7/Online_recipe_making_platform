@@ -1,0 +1,13 @@
+com/example/recipeplatform/UseclassDao.clas
+com/example/recipeplatform/UserService.class
+com/example/recipeplatform/RecipeServiceImpl.class
+com/example/recipeplatform/JdbcRecipeDao.class
+com/example/recipeplatform/JdbcRecipeVoteDao.class
+com/example/recipeplatform/LoginServlet.class
+com/example/recipeplatform/User.class
+com/example/recipeplatform/RegisterServlet.class
+com/example/recipeplatform/RecipeServlet.class
+com/example/recipeplatform/DatabaseConnectionTest.class
+com/example/recipeplatform/RecipeDao.class
+com/example/recipeplatform/RecipeService.class
+com/example/recipeplatform/Recipe.class
